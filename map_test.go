@@ -3,9 +3,9 @@ package objx_test
 import (
 	"testing"
 
-	"github.com/stretchr/objx"
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
+	"github.com/calmisland/go-objx"
+	"github.com/calmisland/go-testify/assert"
+	"github.com/calmisland/go-testify/require"
 )
 
 var TestMap = objx.Map{

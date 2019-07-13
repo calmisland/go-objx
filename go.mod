@@ -1,8 +1,5 @@
-module github.com/stretchr/objx
+module github.com/calmisland/go-objx
 
 go 1.12
 
-require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/stretchr/testify v1.3.0
-)
+require github.com/calmisland/go-testify v1.3.1
