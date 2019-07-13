@@ -1,7 +1,7 @@
-github.com/calmisland/go-testify v1.3.1 h1:FbXS2H6vMX+aSyc+Y5JUg4qaKSScPHotGh73ey5qzGs=
-github.com/calmisland/go-testify v1.3.1/go.mod h1:kTz3U4O3cklswLveORFw0a/Oq+PqfouLCKsF31e4Mg8=
-github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
-github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
-github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/calmisland/go-difflib v1.0.1 h1:tfci468YtnjTC0pUOKRmnmpImkC2Z9siy4z94XM9bM0=
+github.com/calmisland/go-difflib v1.0.1/go.mod h1:xvL8JWRWveQaQ9qymwmu4Rq05T5HzvHMqHtWi6eVUhI=
+github.com/calmisland/go-objx v0.2.2/go.mod h1:Ir2IIp28cRXcBJusJfHLYDWLB0Tbduf6BXylF615goM=
+github.com/calmisland/go-spew v1.1.1 h1:5/4iwGVUGLg8Fo4t99k/f8xSVLjeB7PzflE1bZkY3bQ=
+github.com/calmisland/go-spew v1.1.1/go.mod h1:SGaf4jeF9E0pF2t89ndda4FVaBNZfNqOWSD1bxnUyqA=
+github.com/calmisland/go-testify v1.3.2 h1:rJLYL2yQJe2OOtstPOrtLf35ApY36yyrx6OOW7V5k9Y=
+github.com/calmisland/go-testify v1.3.2/go.mod h1:Dt2LylA0rh+HFuRaOyf08mdGEsXGBdOLqyqOLmSsal4=
